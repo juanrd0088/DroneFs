@@ -1,0 +1,4 @@
+libpwm lee del fichero el pwm
+pwm hilo recibe la velocidad(pwm) y la escribe en un fichero
+prueba, es para mandar la velocidad al hilo desde fuera y ver si funciona
+	y efectivamente funciona
