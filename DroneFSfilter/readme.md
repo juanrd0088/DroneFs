@@ -4,12 +4,14 @@ Descarga
 Se descarga desde el git habilitado: 
 https://git.code.tecnalia.com/ander.juaristi/device-monitor/tree/NOKIA-CiberDrone/DroneFSfilter
 
-#Instalación
+Instalación
+===========
 
 En Windows, DroneFS dispone de dos componentes: el minifilter como tal, que es un driver, y la aplicación de usuario que se comunica con este driver. 
 El minifilter, al ser un driver, basta con hacer click derecho en el archivo INF que se ha descargado previamente para instalarlo.El archivo inf está dentro de la carpeta x64/Debug o Release: C:\W10 PC\Projects\DroneFSfilter\x64\Debug. La aplicación de usuario se puede ejecutar directamente desde el archivo dronefsuser.exe.
 
-#Puesta en marcha
+Puesta en marcha
+================
 
 Para iniciar el minifilter, abrimos una consola y ejecutamos:
  	sc start DroneFSFilter (inicia el driver)
