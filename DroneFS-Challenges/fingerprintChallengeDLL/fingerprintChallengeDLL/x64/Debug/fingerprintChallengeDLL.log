@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (netChallengeDLL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  fingerprintChallengeDLL.cpp
+  LINK : no se encontró C:\Users\JorgeNokia\Documents\Visual Studio 2015\Projects\DroneFS-Challenges\fingerprintChallengeDLL\x64\Debug\fingerprintChallengeDLL.dll o no lo generó el último vínculo incremental; ejecutando vínculo completo
+     Creando biblioteca C:\Users\JorgeNokia\Documents\Visual Studio 2015\Projects\DroneFS-Challenges\fingerprintChallengeDLL\x64\Debug\fingerprintChallengeDLL.lib y objeto C:\Users\JorgeNokia\Documents\Visual Studio 2015\Projects\DroneFS-Challenges\fingerprintChallengeDLL\x64\Debug\fingerprintChallengeDLL.exp
+  fingerprintChallengeDLL.vcxproj -> C:\Users\JorgeNokia\Documents\Visual Studio 2015\Projects\DroneFS-Challenges\fingerprintChallengeDLL\x64\Debug\fingerprintChallengeDLL.dll
+  fingerprintChallengeDLL.vcxproj -> C:\Users\JorgeNokia\Documents\Visual Studio 2015\Projects\DroneFS-Challenges\fingerprintChallengeDLL\x64\Debug\fingerprintChallengeDLL.pdb (Full PDB)
