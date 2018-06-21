@@ -1,0 +1,22 @@
+﻿  Building 'DroneFSfilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\DroneFSfilter.inf [Version] section with DriverVer=02/22/2017,14.57.11.908
+  DroneFSfilter.c
+  DroneFSfilter.vcxproj -> C:\W10 PC\Projects\DroneFSfilter\Debug\DroneFSfilter.sys
+  DroneFSfilter.vcxproj -> C:\W10 PC\Projects\DroneFSfilter\Debug\DroneFSfilter.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\W10 PC\Projects\DroneFSfilter\Debug\DroneFSfilter.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\W10 PC\Projects\DroneFSfilter\Debug\DroneFSfilter\dronefsfilter.cat
+  Done Adding Additional Store
+  Successfully signed: C:\W10 PC\Projects\DroneFSfilter\Debug\DroneFSfilter\dronefsfilter.cat
+  

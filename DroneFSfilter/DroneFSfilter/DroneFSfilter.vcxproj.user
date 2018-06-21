@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DebuggerFlavor>DbgengKernelDebugger</DebuggerFlavor>
+    <TestCertificate>CN="WDKTestCert JorgeNokia,131315561919329758" | 6493ACD9543996114425A1B6F0208834426D0871</TestCertificate>
+  </PropertyGroup>
+</Project>
