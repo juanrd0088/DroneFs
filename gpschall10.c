@@ -27,13 +27,7 @@ PUCHAR *getParamNames()
 	return names;
 }
 
-float getlat(){
-	return 40.455;
-}
 
-float getlong(){
-	return 3.616;
-}
 
 PUCHAR *executeParam()
 {
