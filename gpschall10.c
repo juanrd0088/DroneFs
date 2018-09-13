@@ -1,5 +1,10 @@
 #include <string.h>
 #include <malloc.h>
+#include <gps.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <math.h>
 
 #define N_PARAMS 4
 
